@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Locator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_notifications">Notifications</string>
+    <!--Navigation drawer items-->
+    <string name="item_1">Hostels</string>
+    <string name="item_2">More</string>
+    <string name="item_3">Favorites</string>
+    <!--Profile section-->
+    <string name="my_profile">My Profile</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="my_account">My Account</string>
+    <!--Support Section-->
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">071212121</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+
+    <!--Search text-->
+    <string name="search_hint">Search for Hostels, and much more</string>
+
+
+    <!--Intro slider texts -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello You There!</string>
+    <string name="slide_1_desc">The easiest way to locate your favourite Hostel!
+    </string>
+
+    <string name="slide_2_title">They are the best!</string>
+    <string name="slide_2_desc">They are the ones you have been looking for!</string>
+
+    <string name="slide_3_title">Secure!</string>
+    <string name="slide_3_desc">They are situated in a serene and secure environment!</string>
+
+    <string name="slide_4_title">Affordable!</string>
+    <string name="slide_4_desc">They are way much low in price!</string>
+
+    <!--Hostel detail title-->
+    <string name="title_activity_hostel_detail">HostelDetail</string>
+    <string name="title_activity_admin_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
